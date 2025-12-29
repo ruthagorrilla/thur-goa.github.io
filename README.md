@@ -1,5 +1,6 @@
 # thur-goa.github.io
 
-2/27/24 Update:  Porfolio site has been updated!</br>
+AS OF 12/28/2025 THIS WEBSITE IS NOW OUTDATED
+NEW PORTFOLIO SITE IN PROGRESS
 --</br>
 Languages used: HTML, CSS, Javascript
